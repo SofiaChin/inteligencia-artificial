@@ -26,7 +26,7 @@
 | 🩵 | Estado | Título de la Tarea ☁️ | Archivo 🌀 |
 | :---: | :---: | :--- | :---: |
 | **01** | ✨ | **Aplicaciones de IA que uso o he usado** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/blob/main/Ejercicio_01_ia.pdf) |
-| **02** | 💤 | *Siguiente tarea aquí* | [📁 Pendiente](./Tareas/Tarea_02) |
+| **02** | 💤 | **Mundo de Wumpus** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/Wumpus) |
 | **03** | 💤 | *Siguiente tarea aquí* | [📁 Pendiente](./Tareas/Tarea_03) |
 | **04** | 💤 | *Siguiente tarea aquí* | [📁 Pendiente](./Tareas/Tarea_04) |
 
