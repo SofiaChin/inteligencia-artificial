@@ -24,11 +24,11 @@
 
 | <div align="center">Unidad 💙</div> | Estado | <div align="center">Ejercicio ☁️</div> | Archivo 🌀 |
 | :--- | :---: | :--- | :---: |
-| **Conceptos Básicos de la IA** | ✨ | **Aplicaciones de IA que uso o he usado** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/blob/main/Ejercicio_01_ia.pdf) |
-| **Agentes** | ✨ | **Mundo de Wumpus** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/Wumpus) |
-| **Agentes** | ✨ | **Ejercicio 2 — Descripción PEAS de agentes inteligentes** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/blob/main/ejercicio02.md) |
-| **Búsqueda no informada** | ✨ | **Comparar BFS, UCS, DFS, DLS e IDS en el mapa de Rumania** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/busqueda_no_informada) |
-| **Búsqueda informada** | ✨ | **Comparar Greedy y A* en el mapa de Rumania** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/busqueda_informada) |
+| **Conceptos Básicos de la IA** | ✨ | Aplicaciones de IA que uso o he usado | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/blob/main/Ejercicio_01_ia.pdf) |
+| **Agentes** | ✨ | Mundo de Wumpus | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/Wumpus) |
+| **Agentes** | ✨ | Ejercicio 2 — Descripción PEAS de agentes inteligentes | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/blob/main/ejercicio02.md) |
+| **Búsqueda no informada** | ✨ | Comparar BFS, UCS, DFS, DLS e IDS en el mapa de Rumania | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/busqueda_no_informada) |
+| **Búsqueda informada** | ✨ | Comparar Greedy y A* en el mapa de Rumania | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/busqueda_informada) |
 
 </div>
 
