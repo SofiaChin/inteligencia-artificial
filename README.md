@@ -27,7 +27,7 @@
 | :--- | :---: | :--- | :---: |
 | **Conceptos Básicos de la IA** | ✨ | **Aplicaciones de IA que uso o he usado** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/blob/main/Ejercicio_01_ia.pdf) |
 | **Agentes** | ✨ | **Mundo de Wumpus** | [📎 Revisar](https://github.com/SofiaChin/inteligencia-artificial/tree/main/Wumpus) |
-| **03** | 💤 | *Siguiente tarea aquí* | [📁 Pendiente](./Tareas/Tarea_03) |
+| **Agentes** | 💤 | **Ejercicio 2 — Descripción PEAS de agentes inteligentes** | [📎 Revisar]() |
 | **04** | 💤 | *Siguiente tarea aquí* | [📁 Pendiente](./Tareas/Tarea_04) |
 
 </div>
