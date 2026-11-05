@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=90D3FF&height=220&section=header&text=☁️%20Inteligencia%20Artificial%20☁️&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Encabezado de Inteligencia Artificial" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&pause=1000&color=4DB8FF&center=true&vCenter=true&width=700&height=45&lines=¡Hola!+Soy+Anna+Sofia+Chin+Chan+☁️🐶;Ingeniería+en+Computación+🩵;Facultad+de+Matemáticas+(UADY)+🌀" alt="Presentación animada" />
 </a>
 
 <p>
